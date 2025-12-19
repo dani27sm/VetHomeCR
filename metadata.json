@@ -1,9 +1,0 @@
-
-{
-  "name": "VetHome Costa Rica Pro",
-  "description": "Plataforma SaaS para veterinarios nómadas. Gestión de expedientes, inventario CABYS, facturación y portal de clientes.",
-  "requestFramePermissions": [
-    "camera",
-    "microphone"
-  ]
-}
